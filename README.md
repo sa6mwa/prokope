@@ -4,7 +4,7 @@
 Command) - *uppdragstaktik* - invented and implemented by the Prussians 200
 years ago typically called Auftragstaktik (Führen mit Auftrag).
 
-## Oriantation
+## Orientation
 
 I work as a software engineer and/or solutions architect with a keen interest
 in the military leadership philosophy called Auftragstaktik or Uppdragstaktik
