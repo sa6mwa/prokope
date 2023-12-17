@@ -37,9 +37,9 @@ have developed a guide or tool (not a process, at least not rigid)
 named *Prokope* (progress in Greek) illustrated below (currently only
 in Swedish). It has similarities to and is compatible with eXtreme
 Programming specifically (by Kent Beck) and Scrum (mainly by Jeff
-Sutherland), but includes Klein's Recognitional Planning Model (or
-Planering Under Tidspress by Peter Thunholm), The Five Paragraph
-Order, Klein's Situational Awareness Calibration assessment,
+Sutherland), but includes Klein & Schmitt's Recognitional Planning
+Model (or Planering Under Tidspress by Peter Thunholm), The Five
+Paragraph Order, Klein's Situational Awareness Calibration assessment,
 Pre-Mortem, and the military way of conducting a retrospective, albeit
 a shorter version, called the After Action Review.
 
@@ -56,6 +56,17 @@ situational awareness assessment and After Action Review is not fully
 useful.
 
 ![PROKOPE](prokope.svg)
+
+## PUT/RPM
+
+The following video is in swedish from my podcast
+[QZJ](https://open.spotify.com/show/50gMmT5X99LS8MfOv2VHXK) and
+broadly describes *Planering Under Tidspress* which is the Swedish
+Army implementation of Gary Klein & John Schmitt's Recognitional
+Planning Model by Peter Thunholm. The planning model is the base of
+*Prokope*.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/foIKvqghdgQ?si=ONC79CEPa1pSPO8w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 ## The military stereotype
 
