@@ -1,4 +1,6 @@
-# Uppdragsteknik (Mission-based tech)
+[![Prokope](prokope.jpeg "Planeringsstödet Prokope")](prokope.svg)
+
+# Uppdragsteknik
 
 *Uppdragsteknik* is a play on the Swedish word for *mission-based
 tactics* (Mission Command) - *uppdragstaktik* - invented and
@@ -55,7 +57,7 @@ and check-ins daily about your work is implicit for this method or the
 situational awareness assessment and After Action Review is not fully
 useful.
 
-![PROKOPE](prokope.svg)
+Download [Prokope SVG](prokope.svg).
 
 ## PUT/RPM
 
