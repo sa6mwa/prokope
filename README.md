@@ -66,7 +66,7 @@ Army implementation of Gary Klein & John Schmitt's Recognitional
 Planning Model by Peter Thunholm. The planning model is the base of
 *Prokope*.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/foIKvqghdgQ?si=ONC79CEPa1pSPO8w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+[![QZJ - Planering Under Tidspress](qzj-put-screenshot.jpeg)](https://youtu.be/foIKvqghdgQ "Planering Under Tidspress")
 
 ## The military stereotype
 
