@@ -36,6 +36,17 @@ origin](https://www.routledge.com/The-Philosophy-of-Cognitive-Behavioural-Therap
 of cognitive behaviour therapy, but perhaps it has influenced software
 development more?
 
+The seven steps of `prokope` are:
+
+1. INI: Initial tasking (e.g mission, objective w/o the key results or
+   even a full OKR)
+2. SAC: Situational Awareness Calibration questions
+3. RPM: Planning with the help of the Recognitional Planning Model
+4. PRE: Pre-Mortem (i.e *premeditatio malorum*)
+5. 5PO: Five Paragraph Order
+6. EXE: Execute, reflect, learn, iterate (SAC > RPM > PRE)
+7. AAR: After Action Review (retrospective)
+
 ## Orientation
 
 I work as a software engineer and/or solutions architect with a keen
