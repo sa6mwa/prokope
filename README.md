@@ -13,19 +13,19 @@ wisdom, courage, temperance, and justice).
 Fine, but what does that have to do with the process chart above?
 
 There are seven steps in the *tool* above, there are seven characters
-in `prokope`, and it's all about *continuous improvement*. As a
-Westener and part of the western tradition, I like to promote my own
-heritage, and Stoicism is one of its major theological and
-philosophical creations. Many Westerners have appropriated ideas and
-traditions from far away, but have neglected our own. That is my
-reason for making this connection.
+in `prokope`, and it's all about *continuous improvement* in execution
+towards an objective (*mission*). As a Westener and part of the
+western tradition, I like to promote my own heritage, and Stoicism is
+one of its major theological and philosophical creations. Many
+Westerners have appropriated ideas and traditions from far away, but
+have neglected our own. That is my reason for making this connection.
 
 Several concepts in modern software development can be found as key
 tenets in Stoicism, for example, its central tenet is - in essence -
 [systemic thinking](https://en.wikipedia.org/wiki/Systems_thinking) on
 a massive scale with reflection built-in. Small incremental progress
 is to be sought and praised decisevely (e.g: Aurelius, Meditations
-9.30), and the blameless retrospective (and the After Action Review
+9:30), and the blameless retrospective (the After Action Review
 even more so) where failure is praised as a learning opportunity (an
 opportunity to respond with the four virtues) - key practices in a
 *learning organization* - are soaked in Stoicism (e.g: Epictetus,
@@ -34,18 +34,90 @@ Discourses 3.22). Negative visualization - *premeditatio malorum* -
 pre-mortem. It is the [philosophical
 origin](https://www.routledge.com/The-Philosophy-of-Cognitive-Behavioural-Therapy-CBT-Stoic-Philosophy/Robertson/p/book/9780367219147)
 of cognitive behaviour therapy, but perhaps it has influenced software
-development more?
+development even more as it is a perfect fit for the modern
+ever-changing or at the very least rapidly changing world. A world
+that *demands* agility, flexibility and an interative way of working.
 
-The seven steps of `prokope` are:
+## The seven steps
 
-1. INI: Initial tasking (e.g mission, objective w/o the key results or
-   even a full OKR)
-2. SAC: Situational Awareness Calibration questions
+1. INI: Initial tasking, preferably one sentence or no more than a
+   paragraph (from *senior commander* or business executive, customer,
+   etc). Could be...
+   * Mission
+   * Objective w/o the Key Results, the planning activity can be used
+     to set the KRs
+   * A top-level OKR (where the planning activity will result in a new
+     subordinate OKR)
+2. SAC: Situation Awareness Calibration questions (Klein et
+   al). Intended to confirm common-ground and shared understanding
+   exists in the current situation and in future events. Examples:
+   * What is happening right now?
+   * What has changed since last time?
+   * What do you expect should happen next?
+   * Which is the most significant threat right now?
+   * Are there any unconfirmed assumptions?
+   * Are there any anomalies or contradictions in gathered
+     information?
+   * Are you missing any critical information?
+   * What are your collegues doing right now and how does that affect
+     the situation?
 3. RPM: Planning with the help of the Recognitional Planning Model
+   (PUT, Planning Under Time pressure). The *senior commander* (or
+   business executive, customer, etc) who gave the team the task
+   should not be part of this step as it involves *how* to solve the
+   task. Involving the customer or senior external from the team will
+   inevitably lower the team's level of psychological safety which is
+   detrimental to this way of working. The *how* is entirely owned by
+   the team (given constraints in the tasking)
+   1. Understand the mission/objective/task (observe), create a
+      preliminary *target image*. How does the situation look like
+      when the task is completed?
+   2. Understand the situation (orient), how *can* the task/mission or
+      objective be solved, accomplished or reached?
+   3. Decide. How *should* the mission be accomplished or the task be
+      solved? (*Nota bene:* This is a team-activity and a
+      team-decision reached through *dialogue* **not**
+      discussion). The *Course Of Action* (COA) can be separated into
+      phases:
+	  * Initially...
+	  * Thereafter...
+	  * Finally...
+	  * In a later phase... (if there is another task, objective or
+        mission immediately following the current task being planned)
 4. PRE: Pre-Mortem (i.e *premeditatio malorum*)
+   * *"We are in the future and the plan has failed, in what way did
+     it fail?"*
+   * After this exercise, does the team agree the plan is good enough
+     to execute on? If not, revise the Course Of Action and put the
+     revised version through the pre-mortem
 5. 5PO: Five Paragraph Order
-6. EXE: Execute, reflect, learn, iterate (SAC > RPM > PRE)
-7. AAR: After Action Review (retrospective)
+   1. Situation (a paragraph describing the situation, could be
+      elaborate with images, data, anything needed for the team to
+      facilitate reaching shared understanding and executing towards
+      the main objective and in accordance with the intensions of the
+      higher command, company vision, larger mission, overarching OKR,
+      etc)
+   2. Mission (a sentence or short paragraph)
+   3. Execution (*Course Of Action* from the RPM activity)
+   4. Administration/Logistics (relevant if there are acquisitions or
+      ordering to be made, travel, expenses, etc)
+   5. Command/Communications (top-level command, who the *customer*
+      is, how to communicate within the team, but more importantly,
+      how to communicate with the *customer*, etc)
+6. EXE: Communicate the team's *intention* to the *senior commander*,
+   customer, etc by summarizing the Course Of Action, then execute,
+   reflect, learn, iterate (fast-tracked SAC > RPM > PRE > EXE > AAR)
+7. AAR: After Action Review (retrospective) of the whole task. Save
+   the answers somehow for a future review where refined versions of
+   the actions are tasked to a team or sub-team to attempt to
+   implement. The final AAR should include any sub-AAR the team or
+   sub-team has performed along the way (an AAR can be performed after
+   completing a subtask, after each day, etc)
+   1. What was supposed to happen? (the plan or the course of action
+      of the subtask, etc)
+   2. What happened?
+   3. Why did it happen? (tip: recursively ask *why?*)
+   4. What can we do next time?
 
 ## Orientation
 
