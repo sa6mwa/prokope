@@ -1,12 +1,40 @@
 [![Prokope](prokope.jpeg "Planeringsstödet Prokope")](prokope.svg)
 
-# Uppdragsteknik
+# Prokope
 
-*Uppdragsteknik* is a play on the Swedish word for *mission-based
-tactics* (Mission Command) - *uppdragstaktik* - invented and
-implemented by the Prussian Army 200 years ago and later - after the
-reforms and further development by Helmuth von Moltke - called
-Auftragstaktik (Führen mit Auftrag).
+> prokopê
+> προκοπή: progress, on the path towards wisdom.
+> *Source:* <https://en.wikipedia.org/wiki/Glossaamry_of_Stoicism_terms>
+
+`Prokope` means progress in Greek, or more specifically *improvement*
+in the *Stoic* tradition (towards the four cardinal virtues: practical
+wisdom, courage, temperance, and justice).
+
+Fine, but what does that have to do with the process chart above?
+
+There are seven steps in the *tool* above, there are seven characters
+in `prokope`, and it's all about *continuous improvement*. As a
+Westener and part of the western tradition, I like to promote my own
+heritage, and Stoicism is one of its major theological and
+philosophical creations. Many Westerners have appropriated ideas and
+traditions from far away, but have neglected our own. That is my
+reason for making this connection.
+
+Several concepts in modern software development can be found as key
+tenets in Stoicism, for example, its central tenet is - in essence -
+[systemic thinking](https://en.wikipedia.org/wiki/Systems_thinking) on
+a massive scale with reflection built-in. Small incremental progress
+is to be sought and praised decisevely (e.g: Aurelius, Meditations
+9.30), and the blameless retrospective (and the After Action Review
+even more so) where failure is praised as a learning opportunity (an
+opportunity to respond with the four virtues) - key practices in a
+*learning organization* - are soaked in Stoicism (e.g: Epictetus,
+Discourses 3.22). Negative visualization - *premeditatio malorum* -
+(Seneca) is pre-mortem before being rediscovered and re-branded as
+pre-mortem. It is the [philosophical
+origin](https://www.routledge.com/The-Philosophy-of-Cognitive-Behavioural-Therapy-CBT-Stoic-Philosophy/Robertson/p/book/9780367219147)
+of cognitive behaviour therapy, but perhaps it has influenced software
+development more?
 
 ## Orientation
 
@@ -19,6 +47,11 @@ original doctrine. I have a military background as a radio operator
 battalion C2 levels where I have come in contact with many aspects of
 how operational orders, planning, wargaming and retrospectives (After
 Action Reviews) are conducted by senior officers.
+
+Mission Command, or *mission-based tactics* - *uppdragstaktik* in
+Swedish - was conceptualized and implemented by the Prussian Army 200
+years ago and later - after the reforms and further development by
+Helmuth von Moltke - called Auftragstaktik (Führen mit Auftrag).
 
 My bookshelf contains about a dozen books specifically about
 Auftragstaktik or related topics with titles as Adopting Mission
