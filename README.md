@@ -2,6 +2,38 @@
 
 # Prokope
 
+Based on German sources on Auftragstaktik, Swedish Uppdragstaktik,
+John Boyd's [Patterns of Conflict](http://www.projectwhitehorse.com/pdfs/boyd/patterns%20of%20conflict.pdf),
+and the research by Gary Klein et al on naturalistic decision-making
+with inspiration from Peter Senge's learning organization described in
+[The Fifth Discipline](https://en.wikipedia.org/wiki/The_Fifth_Discipline), I
+have over the period of about three years developed a *routine* or
+tool (not a process, at least not rigid) named *Prokope* (progress in
+Greek) illustrated above (currently only in Swedish) and briefly
+described step-by-step in English below. It has similarities to and is
+compatible with eXtreme Programming specifically (by Kent Beck) and
+Scrum (mainly by Jeff Sutherland), but includes Klein & Schmitt's
+Recognitional Planning Model (or Planering Under Tidspress by Peter
+Thunholm), The Five Paragraph Order, Klinger and Klein's
+[Situation Awareness Calibration questions](https://journals.sagepub.com/doi/epdf/10.1177/106480469900700305),
+[Pre-Mortem](https://www.gary-klein.com/premortem), and the military
+way of conducting a retrospective, albeit a shorter version, called
+the *After Action Review*.
+
+The input "mission" can be a single task or a sprint, the method is
+the same, but with less effort and less planning time for tasks and
+more time-consuming for sprints, quartely planning, etc for obvious
+reasons. The idea is to learn in every iteration, meaning there is an
+After Action Review after every User Story or even task, not just
+after a two week sprint for example. The smallest team to use the
+method is a pair, two people, the philosophy is that there are to be
+no explicit individual work. Pair-programming or frequent dialogue and
+check-ins daily about your work is implicit for this method or the
+situational awareness assessment and After Action Review is of little
+use.
+
+Download [Prokope SVG](prokope.svg).
+
 > prokopê
 > προκοπή: progress, on the path towards wisdom.
 > *Source:* <https://en.wikipedia.org/wiki/Glossaamry_of_Stoicism_terms>
@@ -175,8 +207,10 @@ during the After Action Review. Read or listen to the abridged
 audiobook about systemic thinking: The Fifth Discipline by Peter
 Senge or alternatively, listen to
 [this](https://open.spotify.com/episode/590zQuCxlQgrNP3CqZshbG),
-[this](https://open.spotify.com/episode/5p40RHs4yfMJzngy07G6ty), and
-[this](https://open.spotify.com/episode/39URVmrrBmy0fS8Af02KCu)
+[this](https://open.spotify.com/episode/5p40RHs4yfMJzngy07G6ty),
+[this](https://open.spotify.com/episode/39URVmrrBmy0fS8Af02KCu), and
+perhaps especially
+[this](https://open.spotify.com/episode/1YBRoEaZZyWcpvgZwbFjlD)
 podcast.
 
 The goal is to perform this routine intuitively without elaborate
@@ -289,45 +323,14 @@ Jolles), Raising The Bar by Vandergriff, Auftragstaktik by Jochen
 Wittmann, Truppenführung by Beck (with Fritsch and Stulpnaegel), John
 Boyd by Coram, and Certain To Win by Chet Richards.
 
-## Origins
-
-Based on German sources on Auftragstaktik, Swedish Uppdragstaktik,
-John Boyd's [Patterns of Conflict](http://www.projectwhitehorse.com/pdfs/boyd/patterns%20of%20conflict.pdf),
-and the research by Gary Klein et al on naturalistic decision-making
-with inspiration from Peter Senge's learning organization described in
-[The Fifth Discipline](https://en.wikipedia.org/wiki/The_Fifth_Discipline), I
-have developed a guide or tool (not a process, at least not rigid)
-named *Prokope* (progress in Greek) illustrated below (currently only
-in Swedish). It has similarities to and is compatible with eXtreme
-Programming specifically (by Kent Beck) and Scrum (mainly by Jeff
-Sutherland), but includes Klein & Schmitt's Recognitional Planning
-Model (or Planering Under Tidspress by Peter Thunholm), The Five
-Paragraph Order, Klein's Situational Awareness Calibration assessment,
-Pre-Mortem, and the military way of conducting a retrospective, albeit
-a shorter version, called the After Action Review.
-
-The "mission" can be a single task or a sprint, the method is the
-same, but with less effort and less planning time for tasks and more
-time-consuming for sprints, quartely planning, etc for obvious
-reasons. The idea is to learn in every iteration, meaning there is an
-After Action Review after every User Story or even task, not just
-after a two week sprint for example. The smallest team to use the
-method is a pair, two people, the philosophy is that there are to be
-no explicit individual work. Pair-programming or frequent dialogue
-and check-ins daily about your work is implicit for this method or the
-situational awareness assessment and After Action Review is not fully
-useful.
-
-Download [Prokope SVG](prokope.svg).
-
 ## PUT/RPM
 
-The following video is in swedish from my podcast
+The following video is in Swedish from my podcast
 [QZJ](https://open.spotify.com/show/50gMmT5X99LS8MfOv2VHXK) and
 broadly describes *Planering Under Tidspress* which is the Swedish
-Army implementation of Gary Klein & John Schmitt's Recognitional
-Planning Model by Peter Thunholm. The planning model is the base of
-*Prokope*.
+Armed Forces implementation of Gary Klein & John Schmitt's
+Recognitional Planning Model by Peter Thunholm. The planning model is
+the base of *Prokope*.
 
 [![QZJ - Planering Under Tidspress](qzj-put-screenshot.jpeg)](https://youtu.be/foIKvqghdgQ "Planering Under Tidspress")
 
