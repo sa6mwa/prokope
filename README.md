@@ -1,12 +1,235 @@
 [![Prokope](prokope.jpeg "Planeringsstödet Prokope")](prokope.svg)
 
-# Uppdragsteknik
+# Prokope
 
-*Uppdragsteknik* is a play on the Swedish word for *mission-based
-tactics* (Mission Command) - *uppdragstaktik* - invented and
-implemented by the Prussian Army 200 years ago and later - after the
-reforms and further development by Helmuth von Moltke - called
-Auftragstaktik (Führen mit Auftrag).
+> prokopê
+> προκοπή: progress, on the path towards wisdom.
+> *Source:* <https://en.wikipedia.org/wiki/Glossaamry_of_Stoicism_terms>
+
+`Prokope` means progress in Greek, or more specifically *improvement*
+in the *Stoic* tradition (towards the four cardinal virtues: practical
+wisdom, courage, temperance, and justice).
+
+Fine, but what does that have to do with the process chart above?
+
+There are seven steps in (what I like to call) the **routine** above,
+there are seven characters in `prokope` aswell as in the word
+`routine`, and it's all about *intuitive and ingrained continuous
+improvement* in execution towards an objective (*mission*). As a
+Westener and part of the western tradition, I like to promote my own
+heritage, and Stoicism is one of its major theological and
+philosophical creations. Many Westerners have appropriated ideas and
+traditions from far away, but have neglected our own. That is my
+reason for making this connection.
+
+Several concepts in modern software development can be found as key
+tenets in Stoicism, for example, its central tenet is - in essence -
+[systemic thinking](https://en.wikipedia.org/wiki/Systems_thinking) on
+a massive scale with reflection built-in. Small incremental progress
+is to be sought and praised decisevely (e.g: Aurelius, Meditations
+9:30), and the blameless retrospective (the After Action Review
+even more so) where failure is praised as a learning opportunity (an
+opportunity to respond with the four virtues) - key practices in a
+*learning organization* - are soaked in Stoicism (e.g: Epictetus,
+Discourses 3:22). Negative visualization - *premeditatio malorum* -
+(Seneca) is pre-mortem before being rediscovered and re-branded as
+pre-mortem. It is the [philosophical
+origin](https://www.routledge.com/The-Philosophy-of-Cognitive-Behavioural-Therapy-CBT-Stoic-Philosophy/Robertson/p/book/9780367219147)
+of cognitive behaviour therapy, but perhaps it has influenced software
+development even more as it is a perfect fit for the modern rapidly
+changing environment. A world that *demands* agility, flexibility and
+an iterative way of working with frequent throw-away-your-darlings
+refactoring (*returning* it instead of loosing it followed by a sense
+of separation anxiety). Nothing is lost as the routine involves
+continuous learning and reflection towards incrementally better
+solutions.
+
+Roger, but what if I would prefer a more... *formal* name?
+
+How about `ISARPFEA`?
+
+But that's eight characters.
+
+Fine, `ISRPFEA` then...
+
+## ISARPFEA
+
+The seven steps: INI, SAC, RPM, PRE, 5PO, EXE, AAR.
+
+1. **INI**: Initial tasking, preferably one sentence or no more than a
+   paragraph (from *senior commander* or business executive, customer,
+   etc). Could be...
+   * Mission
+   * Objective w/o the Key Results, the planning activity can be used
+     to set the KRs
+   * A top-level OKR (where the planning activity will result in a new
+     subordinate OKR)
+   The tasking should preferably include a summary of the mission of
+   the executive's higher level command (called *commander's
+   intent*). This could be the higher-level OKR connected to this
+   tasking
+2. **SAC**: Situation Awareness Calibration questions (Klein et
+   al). Intended to confirm common-ground and shared understanding
+   exists in the current situation and in future events. Examples:
+   * What is happening right now?
+   * What has changed since last time?
+   * What do you expect should happen next?
+   * Which is the most significant threat right now?
+   * Are there any unconfirmed assumptions?
+   * Are there any anomalies or contradictions in gathered
+     information?
+   * Are you missing any critical information?
+   * What are your collegues doing right now and how does that affect
+     the situation?
+3. **RPM**: Planning with the help of the Recognitional Planning Model
+   (PUT, Planning Under Time pressure). The *senior commander* (or
+   business executive, customer, etc) who gave the team the task
+   should not be part of this step as it involves *how* to solve the
+   task. Involving the customer or senior external from the team will
+   inevitably lower the team's level of psychological safety which is
+   detrimental to this way of working. The *how* is entirely owned by
+   the team (given constraints and guidelines in the tasking)
+   1. Understand the mission/objective/task (observe), create a
+      preliminary *target image*. How does the situation look like
+      when the task is completed?
+   2. Understand the situation (orient), how *can* the task/mission or
+      objective be solved, accomplished or reached?
+   3. Decide. How *should* the mission be accomplished or the task be
+      solved? (*Nota bene:* This is a team-activity and a
+      team-decision reached through *dialogue* **not**
+      discussion). The *Course Of Action* (COA) can be separated into
+      phases:
+	  * Initially...
+	  * Thereafter...
+	  * Finally...
+	  * In a later phase/stage... (if there is another task, objective
+        or mission immediately following the current task being
+        planned)
+4. **PRE**: Pre-Mortem (i.e *premeditatio malorum*)
+   * Team activity: *"We are in the future and the plan has failed, in
+     what way did it fail?"*
+   * After this exercise, does the team agree the plan is good enough
+     to execute on? If not, revise the Course Of Action and put the
+     revised version through the pre-mortem
+5. **5PO**: Five Paragraph Order
+   1. Situation (a paragraph describing the situation, could be
+      elaborate with images, data, anything needed for the team to
+      facilitate reaching shared understanding and executing towards
+      the main objective and in accordance with the intensions of the
+      higher command, company vision, larger mission, overarching OKR,
+      etc)
+   2. Mission (a sentence or short paragraph)
+   3. Execution (*Course Of Action* from the RPM activity). The bigger
+      team is preferably devided into sub-group sections of at least
+      two people each where each sub-group probably works on one part
+      of the COA (vertically) or one horizontal *slice* or
+      sub-system/sub-task of the COA. In the military the leader is
+      usually the one who assigns the sub-tasks to sub-groups, but
+      self-organization should be preferred. Having a facilitator
+      coach this activity is recommended, unless you are in a very
+      well developed team
+   4. Administration/Logistics (relevant if there are acquisitions or
+      ordering to be made of e.g servers, services, travel, etc)
+   5. Command/Communications (top-level command, who the *customer*
+      is, how to communicate within the team, but more importantly,
+      how to communicate with the *customer*, etc)
+6. **EXE**: Communicate the team's *intention* to the *senior commander*,
+   customer, etc by summarizing the Course Of Action, then execute,
+   reflect, learn, iterate (fast-tracked SAC > RPM > PRE > EXE > AAR)
+7. **AAR**: After Action Review (retrospective) of the whole
+   task/mission. Save the answers somehow for a future review where
+   refined versions of the actions are tasked to a team or sub-team to
+   attempt to implement. The final AAR should include any sub-AAR the
+   team or sub-team has performed along the way (an AAR can be
+   performed after completing a subtask, after each day, etc)
+   1. What was supposed to happen? (the plan or the course of action
+      of the subtask, etc)
+   2. What happened?
+   3. Why did it happen? (tip: recursively ask *why?*)
+   4. What can we do next time?
+
+The goal is to perform this routine intuitively without elaborate
+process adherance. It's the dialogue-based learning process that is
+most important, not which cermonies are performed when or where. Using
+the reflective tools in the routine on a team-level allows the
+team-members to be more situationally aware of changes, unconfirmed
+assumptions and biases in order to make timely adaptations early to a
+potential new reality (i.e *"be agile"*).
+
+The more formal Five Paragraph Order following the Recognitional
+Planning Model is supposed to establish a shared understanding of the
+task at hand and in which way to solve it by *rehearsing* a story in
+mainly three stages (*initially, thereafter and finally*). The 5PO
+also contains out-of-band information such as who is to arrange
+deploy-pizza and beer after successfully shipping the software (just
+kidding), which cost-center to bill, who the customer is and how to
+communicate with him/her.
+
+Execution is to be iterative with concurrently running inner-loops
+(each sub-team solving sub-tasks) within the whole routine which is
+also an inner-loop in the big picture. Execution is basically
+`ISRPFEA` run recursively. The sub-team would calibrate their
+situation awareness (could be a daily stand-up, or something
+else). The SAC serves a similar purpose of how a commander's order to
+*repeat* i.e *collate* (in his/her own words) the order given
+confirming the subordinate has understood it, a very good practice
+helping keep common-ground intact and facilitate shared understanding.
+This followed by a quick RPM (understanding the task, formulate a
+COA - course of action), a quick PRE-mortem (how did the COA fail?),
+short 5PO (e.g agree when to take breaks, lunch, other logistics,
+etc), and execute the inner-COA. Each sub-group should perform an
+After Action Review when the task or sub-task is completed.
+
+Wait, this is too complicated!
+
+What if I told you that many platoon or squad-level planning-sessions,
+5POs and AARs are done verbally or using anchor-points on a small
+piece of paper? There is a reason the naturalistic decision-making
+research by Gary Klein et al is utilized and referenced in `ISRPFEA`.
+After practicing this approach with a good facilitator, the team will
+be able to execute and ingrain this routine quickly, i.e
+intuitively. Perhaps the main task for the sprint should be written
+down as a 5PO unless the team is highly effective and cohesive, but
+the subtask 5POs can be communicated verbally within the
+sub-team. AARs should be written down, at least the final step (*what
+can we do next time?*), in order to review and incorporate these
+actions in future iterations. `ISRPFEA` is not a bureaucratic process,
+on the contrary, it is a tool to facility naturalistic
+decision-making, delegated responsibility, *disciplined initiative*,
+team-cohesion, and an intuitive way of working while still providing
+structure.
+
+The *routine* is supposed to be recursive, meaning a
+mission can have sub-tasks and sub-sub-tasks hooked into the main task
+or mission, similar to how OKRs are intended to be used. Each stage or
+phase in the Course Of Action can be illustrated as an actual Story
+Map where each subtasked team can visually see where they fit in into
+the bigger picture. None of this is new, it's how most or probably all
+western defense forces around the world structure their planning and
+is probably the most intuitive approach in modern software
+development. The origin of this type of planning is - as previsouly
+stated - nearly 200 years old from after the Prussian Army reformed
+it's doctrine and most western defence forces adopted it.
+
+## Jira Issues
+
+No, not issues in Jira, but issues *with* Jira. The philosophy - or at
+least recommendation - with `ISRPFEA` is to never ever assign a task
+to a single individual as all work is supposed to be team
+efforts. There are ways to add additional assignees to an issue, but
+still always with a *main* assignee. Ideas around this would be to
+color-code each sub-group (*team blue, red hats, agent oranges, pink
+floyds, red barons, yellow subroutine*, etc) and not assign any task
+to any assignee in Jira in the Scrum or Kanban board. Colors on cards
+can be assigned to JQL queries or you can use colored labels. You may
+need to add fields to show on the cards in your board.
+
+Why? There is no smaller unit in `ISRPFEA` than a pair. Obviously, I
+have taken that rule from the Swedish Armed Forces (*stridspar*,
+meaning *combat pair*). In the US Army, I believe the smallest unit is
+a *fire team* of 3-5 soldiers. A pair is probably ideal for - as the
+name suggests - pair-programming, which is encouraged in this
+approach, but 3 developers could be more ideal for other tasks.
 
 ## Orientation
 
@@ -20,6 +243,11 @@ battalion C2 levels where I have come in contact with many aspects of
 how operational orders, planning, wargaming and retrospectives (After
 Action Reviews) are conducted by senior officers.
 
+Mission Command, or *mission-based tactics* - *uppdragstaktik* in
+Swedish - was conceptualized and implemented by the Prussian Army 200
+years ago and later - after the reforms and further development by
+Helmuth von Moltke - called Auftragstaktik (Führen mit Auftrag).
+
 My bookshelf contains about a dozen books specifically about
 Auftragstaktik or related topics with titles as Adopting Mission
 Command by Vandergriff, Moltke on The Art Of War by Hughes,
@@ -28,7 +256,7 @@ Jolles), Raising The Bar by Vandergriff, Auftragstaktik by Jochen
 Wittmann, Truppenführung by Beck (with Fritsch and Stulpnaegel), John
 Boyd by Coram, and Certain To Win by Chet Richards.
 
-## Prokope
+## Origins
 
 Based on German sources on Auftragstaktik, Swedish Uppdragstaktik,
 John Boyd's [Patterns of Conflict](http://www.projectwhitehorse.com/pdfs/boyd/patterns%20of%20conflict.pdf),
@@ -143,7 +371,7 @@ the Germany Army writes:
 > dimensions of leadership in the mulinational structured armed forces
 > of today, but also in areas outside of the military sphere.
 
-I think it is very relevany outside the military sphere. On page 48 in
+I think it is very relevant outside the military sphere. On page 48 in
 Auftragstaktik, Wittmann has drawing comparing "befehlstaktik"
 (command guidance or command control) and Auftragstaktik where the
 characteristics of Befehlstaktik include *details of order*, very
