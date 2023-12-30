@@ -186,6 +186,18 @@ What if I told you that many platoon or squad-level planning-sessions,
 5POs and AARs are done verbally or using anchor-points on a small
 piece of paper? There is a reason the naturalistic decision-making
 research by Gary Klein et al is utilized and referenced in `ISRPFEA`.
+After practicing this approach with a good facilitator, the team will
+be able to execute and ingrain this routine quickly, i.e
+intuitively. Perhaps the main task for the sprint should be written
+down as a 5PO unless the team is highly effective and cohesive, but
+the subtask 5POs can be communicated verbally within the
+sub-team. AARs should be written down, at least the final step (*what
+can we do next time?*), in order to review and incorporate these
+actions in future iterations. `ISRPFEA` is not a bureaucratic process,
+on the contrary, it is a tool to facility naturalistic
+decision-making, delegated responsibility, *disciplined initiative*,
+team-cohesion, and an intuitive way of working while still providing
+structure.
 
 The *routine* is supposed to be recursive, meaning a
 mission can have sub-tasks and sub-sub-tasks hooked into the main task
