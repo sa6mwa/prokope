@@ -10,7 +10,7 @@
 in the *Stoic* tradition (towards the four cardinal virtues: practical
 wisdom, courage, temperance, and justice).
 
-Fine, but what does that have to do with the process chart above?
+— *Fine, but what does that have to do with the process chart above?*
 
 There are seven steps in (what I like to call) the **routine** above,
 there are seven characters in `prokope` aswell as in the word
@@ -44,13 +44,13 @@ of separation anxiety). Nothing is lost as the routine involves
 continuous learning and reflection towards incrementally better
 solutions.
 
-Roger, but what if I would prefer a more... *formal* name?
+— *Roger, but what if I would prefer a more... formal name?*
 
-How about `ISARPFEA`?
+— *How about `ISARPFEA`?*
 
-But that's eight characters.
+— *But that's eight characters.*
 
-Fine, `ISRPFEA` then...
+— *Fine, `ISRPFEA` then...*
 
 ## ISARPFEA
 
@@ -58,40 +58,59 @@ The seven steps: INI, SAC, RPM, PRE, 5PO, EXE, AAR.
 
 1. **INI**: Initial tasking, preferably one sentence or no more than a
    paragraph (from *senior commander* or business executive, customer,
-   etc). Could be...
+   product owner, etc). Could be...
    * Mission
    * Objective w/o the Key Results, the planning activity can be used
      to set the KRs
    * A top-level OKR (where the planning activity will result in a new
      subordinate OKR)
    The tasking should preferably include a summary of the mission of
-   the executive's higher level command (called *commander's
-   intent*). This could be the higher-level OKR connected to this
-   tasking
-2. **SAC**: Situation Awareness Calibration questions (Klein et
-   al). Intended to confirm common-ground and shared understanding
-   exists in the current situation and in future events. Examples:
+   the executive's higher level command (called *commander's intent*
+   in a Five Paragraph Order). This could be the higher-level OKR
+   connected to this tasking
+2. **SAC**: Situation Awareness Calibration questions ([An accident
+   waiting to happen - David Klinger, Gary
+   Klein](https://journals.sagepub.com/doi/10.1177/106480469900700305)). Intended
+   to confirm common-ground and shared understanding exists in the
+   current situation. Examples (from a podcast interview with Gary
+   Klein):
    * What is happening right now?
    * What has changed since last time?
    * What do you expect should happen next?
    * Which is the most significant threat right now?
+   * Are you missing any critical information?
    * Are there any unconfirmed assumptions?
    * Are there any anomalies or contradictions in gathered
      information?
-   * Are you missing any critical information?
    * What are your collegues doing right now and how does that affect
      the situation?
+   The SA calibration in the article linked above contains five
+   questions to be frequently synced with all members in the team (in
+   the case of the nuclear facility, every 15 minutes). Those five
+   questions may not entirely be applicable to software development
+   and there is seldom need to sync each 15 minutes (unless during a
+   major incident or outage in production perhaps). What is important
+   is to be *on the same page* and target the same issues mentioned in
+   the article. There is no daily standup ceremony recommended with
+   this approach, but if you have one, that is the time to ask these
+   questions. This approach recommends syncing up using these or
+   similar questions before initiating work, especially if not
+   pair-programming the whole day. The calibration can be performed
+   one or several times per day depending on the task at hand
 3. **RPM**: Planning with the help of the Recognitional Planning Model
    (PUT, Planning Under Time pressure). The *senior commander* (or
-   business executive, customer, etc) who gave the team the task
-   should not be part of this step as it involves *how* to solve the
-   task. Involving the customer or senior external from the team will
-   inevitably lower the team's level of psychological safety which is
-   detrimental to this way of working. The *how* is entirely owned by
-   the team (given constraints and guidelines in the tasking)
+   business executive, customer, product owner, etc) who gave the team
+   the task should not be part of this step as it involves *how* to
+   solve the task (or that it can not be solved with given resources
+   or constraints). Involving the customer or senior external from the
+   team will inevitably lower the team's level of psychological safety
+   which is detrimental to this way of working. The *how* is entirely
+   owned by the team (given constraints and guidelines in the tasking)
    1. Understand the mission/objective/task (observe), create a
       preliminary *target image*. How does the situation look like
-      when the task is completed?
+      when the task is completed? This is preferably where you define
+      *preliminary* Acceptance Criterias (yes, they should be defined
+      early in the planning)
    2. Understand the situation (orient), how *can* the task/mission or
       objective be solved, accomplished or reached?
    3. Decide. How *should* the mission be accomplished or the task be
@@ -104,7 +123,9 @@ The seven steps: INI, SAC, RPM, PRE, 5PO, EXE, AAR.
 	  * Finally...
 	  * In a later phase/stage... (if there is another task, objective
         or mission immediately following the current task being
-        planned)
+        planned, this is sort of mentally preparing for it, it is
+        **not** about committing to the next sprint, **do not commit
+        to multiple sprints**)
 4. **PRE**: Pre-Mortem (i.e *premeditatio malorum*)
    * Team activity: *"We are in the future and the plan has failed, in
      what way did it fail?"*
@@ -134,8 +155,9 @@ The seven steps: INI, SAC, RPM, PRE, 5PO, EXE, AAR.
       is, how to communicate within the team, but more importantly,
       how to communicate with the *customer*, etc)
 6. **EXE**: Communicate the team's *intention* to the *senior commander*,
-   customer, etc by summarizing the Course Of Action, then execute,
-   reflect, learn, iterate (fast-tracked SAC > RPM > PRE > EXE > AAR)
+   customer, product owner, etc by summarizing the Course Of Action,
+   then execute, reflect, learn, iterate (fast-tracked SAC, RPM, PRE,
+   EXE, AAR)
 7. **AAR**: After Action Review (retrospective) of the whole
    task/mission. Save the answers somehow for a future review where
    refined versions of the actions are tasked to a team or sub-team to
@@ -148,6 +170,15 @@ The seven steps: INI, SAC, RPM, PRE, 5PO, EXE, AAR.
    3. Why did it happen? (tip: recursively ask *why?*)
    4. What can we do next time?
 
+Remember! Set all blame aside when using this routine - especially
+during the After Action Review. Read or listen to the abridged
+audiobook about systemic thinking: The Fifth Discipline by Peter
+Senge or alternatively, listen to
+[this](https://open.spotify.com/episode/590zQuCxlQgrNP3CqZshbG),
+[this](https://open.spotify.com/episode/5p40RHs4yfMJzngy07G6ty), and
+[this](https://open.spotify.com/episode/39URVmrrBmy0fS8Af02KCu)
+podcast.
+
 The goal is to perform this routine intuitively without elaborate
 process adherance. It's the dialogue-based learning process that is
 most important, not which cermonies are performed when or where. Using
@@ -158,12 +189,12 @@ potential new reality (i.e *"be agile"*).
 
 The more formal Five Paragraph Order following the Recognitional
 Planning Model is supposed to establish a shared understanding of the
-task at hand and in which way to solve it by *rehearsing* a story in
-mainly three stages (*initially, thereafter and finally*). The 5PO
-also contains out-of-band information such as who is to arrange
-deploy-pizza and beer after successfully shipping the software (just
-kidding), which cost-center to bill, who the customer is and how to
-communicate with him/her.
+task at hand and in which way to solve it by simulating and
+*rehearsing* a story in mainly three stages (*initially, thereafter
+and finally*). The 5PO also contains out-of-band information such as
+who is to arrange deploy-pizza and beer after successfully shipping
+the software (just kidding), which cost-center to bill, who the
+customer or product owner is and how to communicate with him/her.
 
 Execution is to be iterative with concurrently running inner-loops
 (each sub-team solving sub-tasks) within the whole routine which is
@@ -180,24 +211,26 @@ short 5PO (e.g agree when to take breaks, lunch, other logistics,
 etc), and execute the inner-COA. Each sub-group should perform an
 After Action Review when the task or sub-task is completed.
 
-Wait, this is too complicated!
+— *Wait, this is too complicated!*
 
 What if I told you that many platoon or squad-level planning-sessions,
 5POs and AARs are done verbally or using anchor-points on a small
-piece of paper? There is a reason the naturalistic decision-making
-research by Gary Klein et al is utilized and referenced in `ISRPFEA`.
-After practicing this approach with a good facilitator, the team will
-be able to execute and ingrain this routine quickly, i.e
-intuitively. Perhaps the main task for the sprint should be written
-down as a 5PO unless the team is highly effective and cohesive, but
-the subtask 5POs can be communicated verbally within the
-sub-team. AARs should be written down, at least the final step (*what
-can we do next time?*), in order to review and incorporate these
-actions in future iterations. `ISRPFEA` is not a bureaucratic process,
-on the contrary, it is a tool to facility naturalistic
-decision-making, delegated responsibility, *disciplined initiative*,
-team-cohesion, and an intuitive way of working while still providing
-structure.
+piece of paper? There is a reason the
+[naturalistic decision-making research by Gary Klein et al](https://naturalisticdecisionmaking.org/new-ndm-tools/)
+is utilized and referenced in `ISRPFEA`. After practicing this
+approach with a good facilitator, the team will be able to execute and
+ingrain this routine fairly quickly, i.e intuitively (but do not
+expect to change organizational culture over night if your current
+process differ from this approach). Perhaps the main task for the
+iteration should be written down as a 5PO unless the team is highly
+effective and cohesive, but the subtask 5POs can be communicated
+verbally within the sub-team. AARs should be written down, at least
+the final step (*what can we do next time?*), in order to review and
+incorporate these actions in future iterations. `ISRPFEA` is not a
+bureaucratic process, on the contrary, it is a tool to facility
+naturalistic decision-making, delegated responsibility, *disciplined
+initiative*, team-cohesion, and an intuitive way of working while
+still providing structure.
 
 The *routine* is supposed to be recursive, meaning a
 mission can have sub-tasks and sub-sub-tasks hooked into the main task
