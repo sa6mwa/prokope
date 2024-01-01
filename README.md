@@ -209,7 +209,7 @@ Peter Thunholm involve three steps:
 
 1. Understand the mission/objective/task (observe), create a
    preliminary *target image* (directly translated from Swedish) -
-   what I have choosen to call the *Effective Final Outcome* (EFO) in
+   what I have chosen to call the *Effective Final Outcome* (EFO) in
    English. How does the situation look like when the task is
    completed?  This is preferably where you define *preliminary*
    Acceptance Criterias (yes, they should be defined early in the
@@ -241,12 +241,12 @@ fail?"*
 The pre-mortem is not a stand-in for
 [wargaming](https://en.wikipedia.org/wiki/Professional_wargaming),
 which should have been performed after conceptualizing the Course Of
-Action in the previous RPM step, but it is a connected and can act as
-an alternative for smaller tasks or time-constraints.
+Action in the previous RPM step, but is connected and can act as an
+alternative for smaller tasks or time-constraints.
 
 Read the article [Performing a Project
 Premortem](https://hbr.org/2007/09/performing-a-project-premortem) by
-Gary Klein how to perform this, quote from the article...
+Gary Klein how to perform this. Quote from the article...
 
 > In a premortem, team members assume that the project they are
 > planning has just failed—as so many do—and then generate plausible
@@ -317,7 +317,8 @@ Output: An OPORD clarifying the mission and the team's dissposition.
 
 ### 6. EXE: Execute
 
-Input: An *operation order*.
+Input: An *operation order* the team has simulated (wargamed) or at
+least have received a briefing on.
 
 Communicate the team's *intention* to the *senior commander*,
 customer, product owner, etc by summarizing the Course Of Action, then
@@ -369,7 +370,8 @@ for future reviews and creating actionable tasks from an AAR.
 2. What happened?
    * Did the COA go according to plan or deviate from the plan?
 3. Why did it happen?
-   * Tip: recursively ask *why?*
+   * Tip: recursively ask *why?* (including COAs that went exactly as
+     planned, why did it go that well?)
    * Here is where dialogue can be most intense and the facilitator
      may need to slow down the process in order to let each member's
      perspective sink in with the team
@@ -505,7 +507,7 @@ use that as an increment interval if deemed realistic (whether it is 3
 days or 3 weeks). `Prokope` does not advocate any fixed sprint cycle,
 but there need to be more emphasis on SAC and AAR if the increment
 continues after the weekend (or similar time off). From my experience,
-short sprint intervals add more pressure to the team, the feedback
+short sprint intervals add more pressure on the team, the feedback
 cycles are faster and that may not always be sustainable while long
 sprint cycles become tedious and boring risking to blur the team's
 focus. Right-sizing the sprint cycle to the task at hand is my
