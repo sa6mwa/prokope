@@ -389,6 +389,8 @@ time?*) of the main AAR. There should be no names assigned to any
 notes, ideas or actionable tasks as there is to be no blame (or
 praise) in an AAR.
 
+### Additional context
+
 Remember! Set all blame aside when using this routine - especially
 during the After Action Review. Read or listen to the abridged
 audiobook about systemic thinking: The Fifth Discipline by Peter
