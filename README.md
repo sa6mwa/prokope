@@ -389,7 +389,7 @@ time?*) of the main AAR. There should be no names assigned to any
 notes, ideas or actionable tasks as there is to be no blame (or
 praise) in an AAR.
 
-### Additional context
+## Epilogue
 
 Remember! Set all blame aside when using this routine - especially
 during the After Action Review. Read or listen to the abridged
@@ -480,27 +480,7 @@ development. The origin of this type of planning is - as previsouly
 stated - nearly 200 years old from after the Prussian Army reformed
 it's doctrine and most western defence forces adopted it.
 
-## Jira Issues
-
-No, not issues in Jira, but issues *with* Jira. The philosophy - or at
-least recommendation - with `ISRPFEA` is to never ever assign a task
-to a single individual as all work is supposed to be team
-efforts. There are ways to add additional assignees to an issue, but
-still always with a *main* assignee. Ideas around this would be to
-color-code each sub-group (*team blue, red hats, agent oranges, pink
-floyds, red barons, yellow subroutine*, etc) and not assign any task
-to any assignee in Jira in the Scrum or Kanban board. Colors on cards
-can be assigned to JQL queries or you can use colored labels. You may
-need to add fields to show on the cards in your board.
-
-Why? There is no smaller unit in `ISRPFEA` than a pair. Obviously, I
-have taken that rule from the Swedish Armed Forces (*stridspar*,
-meaning *combat pair*). In the US Army, I believe the smallest unit is
-a *fire team* of 3-5 soldiers. A pair is probably ideal for - as the
-name suggests - pair-programming, which is encouraged in this
-approach, but 3 developers could be more ideal for other tasks.
-
-## No estimates
+### No estimates
 
 Well, maybe not entirely, but it is a total waste of time to estimate
 individual stories or subtasks, and stressful for developers. Estimate
@@ -522,6 +502,26 @@ Kanban-like for sprint goals deemed to need to take more time will
 >
 > *— Seneca, Letter From A Stoic, Letter 33 (On The Futility Of
 > Learning Maxims)*
+
+### Jira Issues
+
+No, not issues in Jira, but issues *with* Jira. The philosophy - or at
+least recommendation - with `ISRPFEA` is to never ever assign a task
+to a single individual as all work is supposed to be team
+efforts. There are ways to add additional assignees to an issue, but
+still always with a *main* assignee. Ideas around this would be to
+color-code each sub-group (*team blue, red hats, agent oranges, pink
+floyds, red barons, yellow subroutine*, etc) and not assign any task
+to any assignee in Jira in the Scrum or Kanban board. Colors on cards
+can be assigned to JQL queries or you can use colored labels. You may
+need to add fields to show on the cards in your board.
+
+Why? There is no smaller unit in `ISRPFEA` than a pair. Obviously, I
+have taken that rule from the Swedish Armed Forces (*stridspar*,
+meaning *combat pair*). In the US Army, I believe the smallest unit is
+a *fire team* of 3-5 soldiers. A pair is probably ideal for - as the
+name suggests - pair-programming, which is encouraged in this
+approach, but 3 developers could be more ideal for other tasks.
 
 ## Background
 
