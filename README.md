@@ -35,6 +35,14 @@ and Klein's
 way of conducting a retrospective, albeit a shorter version, called
 the *After Action Review*.
 
+The original *auftragstaktik* was an early form of far-reaching
+delegated decision-making where disciplined initiates are not only
+encouraged, but expected, even if they fail as in-action is considered
+far worse than failure. It focuses on quick decision-making at *the
+front* by the people who experience the situation first-hand. Trust
+and giving up control is key, as is the courage to take initiative by
+and componentence of the trustee.
+
 The input "mission" can be a new project, a single task or a sprint,
 the method is the same, but with less effort and less planning time
 for tasks and more time-consuming for sprints, quartely planning, etc
@@ -109,22 +117,23 @@ The seven steps in the outer loop: INI, SAC, RPM, PRE, 5PO, EXE, AAR.
 ### 1. INI: Initial Tasking
 
 This is the input into the *routine* coming from a *senior commander*
-or business executive, customer, product owner, etc. The mission/task
-should be summarized as one sentence with no more than a paragraph of
-context. Could be...
+or business executive, customer, product owner, self-organizing team,
+yourself intending to execute on the purpose of the organization,
+etc. The mission/task should be summarized as one sentence with no
+more than a paragraph of context. Could be...
 
 * The output of point 5, the Five Paragraph Order (mission)
 * Objective w/o the Key Results, the planning activity can be used
   to set the KRs
 * A top-level OKR (where the planning activity will result in a new
   subordinate OKR)
-
-A mission statement should be supplemented with 
+* A dialogue meeting in a self-organizing team attempting to
+  conceptualize an actionable plan supporting their purpose
 
 The tasking should preferably include a summary of the mission of the
 executive's higher level command (called *commander's intent* in a
 Five Paragraph Order). This could be the higher-level OKR connected to
-this tasking.
+this tasking, the purpose of the organization or subsystem.
 
 Output: Verbally communicated tasking is preferably written down and
 briefly answers the question *why?* with the supplementary words
@@ -202,7 +211,13 @@ with given resources or constraints). Involving the customer or senior
 external from the team will inevitably lower the team's level of
 psychological safety which is detrimental to this way of working. The
 *how* is entirely owned by the team (given constraints and guidelines
-in the tasking).
+in the tasking). If the task was conceptualized by a team-member in
+your team on the same level of hierarchy as the other team-members,
+then that person can and probably should participate in this step
+(same for a self-organizing team giving itself a task,
+obvisouly). Seek advice from the most knowledgable people when
+conceptualizing the plan. The people involved in executing the plan
+should be part of the planning process.
 
 The Swedish Armed Forces equivalent Planning Under Time-pressure by
 Peter Thunholm involve three steps:
@@ -254,9 +269,10 @@ Gary Klein how to perform this. Quote from the article...
 > the outset, so that the project can be improved rather than
 > autopsied.
 
-This is a team activity. After the exercise, does the team agree the
-plan (COA from RPM) is good enough to execute on? If not, revise the
-EFO and/or COA and put the revised version through the pre-mortem.
+This is a team activity. After the exercise, does any team-member have
+strong objections against the Course Of Action from the RPM step and
+can motivate why? If yes, revise the EFO and/or COA and put the
+revised version through the pre-mortem, otherwise you have a plan.
 
 ### 5. 5PO: Five Paragraph Order
 
@@ -547,6 +563,32 @@ Auftragstaktik by Oliviero, On War by Clausewitz (translated by
 Jolles), Raising The Bar by Vandergriff, Auftragstaktik by Jochen
 Wittmann, Truppenführung by Beck (with Fritsch and Stulpnaegel), John
 Boyd by Coram, and Certain To Win by Chet Richards.
+
+The original *mission-based tactics* (Auftragstakik) was an early form
+of far-reaching delegated decision-making where disciplined
+initiatives are not only encouraged, but expected, even if they fail
+as inaction is considered far worse than failure. Over time,
+decision-making was gradually delegated further and futher down into
+the Prussian/German Army and finally to the individual solider during
+the interwar period as auftragstaktik became exceptionally more
+maneuverable due to tanks and airplanes (sometimes erroneously called
+*blitzkrieg*, which was never a concept or doctrine, but rather
+auftragstaktik with modern technology). Similarly, decision-making was
+delegated far down into the Swedish Armed Forces and it is said it was
+the most *mission tactical* around 1920 to be slightly rolled back
+after World War II and not reintroduced until modern times. I am not
+saying auftragstakik transformed the Prussian, German or Swedish Army
+into a [teal organization](https://www.reinventingorganizations.com/),
+but I am saying it is highly compatible with *teal* ideas and has many
+of it's qualities. The focus on timely decisive discplined initiative
+is not compatible with a *green organization* as the approach does not
+seek concensus which would stifle quick decision-making. It is
+similarly far from the *amber organization* Laloux places *the
+military* into as a stereotype. However, there are modern western
+defence forces that think it is a good idea to use *normaltaktik*
+during peace-time (in barracks, on exercises, etc) and only utilize
+*auftragstaktik* during war-time - they certainly fit the *amber
+organization*.
 
 ## PUT/RPM
 
